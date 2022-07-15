@@ -39,8 +39,8 @@ app.post("/send-email/",(req,res)=>{
         },
         auth: {
             //Usuario y contraseña que envía el mensaje
-            user: 'beautyBot@outlook.es',
-            pass: 'centroEstetica.'
+            user: 'xxxxt@outlook.es',
+            pass: 'xxxxxx'
         },
         
     });
